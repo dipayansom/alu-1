@@ -1,0 +1,199 @@
+@CHARSET "ISO-8859-1";
+
+#top
+{
+	padding-top:2px;
+	
+	
+}
+
+#nav
+{
+	float:left;
+
+}
+#picture
+{
+	margin-top:-15px;
+	width:250px;
+        height:60px;
+	
+}
+
+#logout
+{
+	width:100px;
+	border-radius:25px;
+	border: 1px solid #cdcdcd;
+	background-color: #cccccc;
+	color:#bfbfbf;
+	margin-right:50px;
+	margin-top:-100px;
+	color:black;
+	font-weight:bold;
+	font-size:18px;
+}
+#searchtext
+{
+	margin-top:5px;
+	border-radius:15px;
+	width:280px;
+	margin-left: 20px;
+	margin-top:-1px;
+	
+}
+
+#search{
+height:45px;
+border-radius: 2.5rem;
+border: none;
+width:300px;
+color: black;
+font-size:20px;
+padding-left:30px;
+}
+#searchbtn{
+margin-left:-45px;
+border:none;
+text-align:right;
+}
+#last
+{
+	padding-top:10px;
+}
+#info
+{
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+#mid_left{
+	
+	background-color:#f2f2f2;
+	
+	
+}
+#profile_bar
+{
+	height:45px;
+	background-color:#d9d9d9;
+	padding:10px;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:10px;
+	
+	
+}
+
+#profile
+{
+	color:white;
+	font-size:20px;	
+
+}
+#profile_contents
+{
+	margin-top:10px;
+}
+#profilePicture
+{
+	height:150px;
+	width:150px;
+}
+#idspace
+{
+
+	margin-top:-10px;
+	color:#666666;
+	
+}
+#idspace3
+{
+	
+	margin-top:-10px;
+	color:#666666;
+	margin-bottom:300px;
+	
+}
+#mid_right{
+	
+	background-color:#f2f2f2;
+	
+}
+#add
+{
+	width:100px;
+	border-radius:25px;
+	border: 1px solid #cdcdcd;
+	background-color:#1a1a1a;
+	color:white;
+	margin-right:50px;
+	margin-top:-100px;
+	font-size:18px;
+}
+#myCarousel{
+	margin-top: 10px;
+	width: 350px;
+	height: 400px;
+}
+#rate-div{
+	height:400px;
+
+}
+#description{
+	padding-left:10px;
+	padding-right:20px;
+}
+#rate{
+	position: absolute;
+  	bottom:0;
+}
+#button-grp
+{
+	height:400px;
+}
+#button-grp2{
+	position:absolute;
+	bottom:0;
+} 
+#finish
+{
+	width:100px;
+	border-radius:25px;
+	border: 1px solid #cdcdcd;
+	background-color: #262626;
+	color:white;
+	margin-bottom:10px;
+	font-weight:bold;
+	font-size:18px;
+}
+#cancel
+{
+	width:100px;
+	border-radius:25px;
+	border: 1px solid #cdcdcd;
+	background-color: #bfbfbf;
+	color:#666666;
+	font-weight:bold;
+	font-size:18px;
+}
+.nav-pills>li>a{
+color:grey;
+}
+.nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover{
+color:#000000;
+background-color:#9a9a9a;
+}
+#product-name
+{
+font-size:200%;
+}
+#product-company
+{
+font-size:170%;
+}
+#product-heading
+{
+margin-top:5px;
+margin-bottom:5px;
+}

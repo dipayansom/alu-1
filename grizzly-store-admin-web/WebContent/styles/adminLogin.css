@@ -1,0 +1,54 @@
+@CHARSET "ISO-8859-1";
+
+#main
+{
+	display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding:100px;
+  width: 100%;
+  margin-top:50px;
+}
+#underline
+{
+	width: 33%;
+	border:1px solid #cccccc;
+}
+#login,#password
+{
+	border-radius:25px;
+	height:30px;
+	width:220px;
+	background-color:#f2f2f2;
+	padding-left:20px;
+	border: 1px solid #cdcdcd;
+	color:#b3b3b3;
+}
+#login:focus
+{
+ width: 300px;
+ border-color:blue;
+ transition: width .35s ease-in-out;
+}
+#password:focus
+{
+ width: 300px;
+ border-color:blue;
+ transition: width .35s ease-in-out;
+}
+#check
+{
+	border-radius:25px;
+	height:25px;
+	width:85px;
+	border: 1px solid #cdcdcd;
+	background-color: #cccccc;
+	color:#666666;
+}
+#picture1
+{
+	height:150px;
+	width:200px;
+}
+
